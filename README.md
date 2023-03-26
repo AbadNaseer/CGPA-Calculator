@@ -1,2 +1,2 @@
 # CGPA-Calculator
-I built a CGPA calculator Desktop app using java, javaFx. 
+I built a CGPA Calculator ( Desktop) App Using Java, and JavaFx. 
